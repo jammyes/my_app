@@ -24,9 +24,9 @@ DATABASES.update(
         'default': {
             'ENGINE': 'django.db.backends.mysql',
             'NAME': 'jam-app',  # 数据库名
-            'USER': '',  # 数据库用户
-            'PASSWORD': '',  # 数据库密码
-            'HOST': '',  # 数据库主机
+            'USER': 'root',  # 数据库用户
+            'PASSWORD': '2vqzQL5xjU',  # 数据库密码
+            'HOST': '10.132.56.56',  # 数据库主机
             'PORT': '3306',  # 数据库端口
         },
     }
